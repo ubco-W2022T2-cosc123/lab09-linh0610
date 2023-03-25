@@ -36,4 +36,4 @@ Add code to move the faces and bounce them off the sketch edges
 
 Embed the animated gif you created here using markdown syntax: `![alt text of image](relative path to image)`
 
-[task1](task1.gif)
+![task1](task1.gif)
