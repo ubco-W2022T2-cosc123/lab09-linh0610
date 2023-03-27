@@ -8,4 +8,14 @@ void setup(){
 void draw(){
   //REQ: add code here to draw either scene0 (home screen) or scene1
   //...YOUR CODE GOES HERE...
+    if (scn == 0) {
+    scene0();
+  } else if (scn == 1) {
+    scene1();
+  }
+
+
+
+
+
 }

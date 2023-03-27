@@ -20,3 +20,5 @@ In class, we created a simple multi-scene animation where the user can go from o
 ## Embed an animated gif of your drawing
  
 Embed the animated gif you created here using markdown syntax: `![alt text of image](relative path to image)`
+
+![task1](task1.gif)
