@@ -12,6 +12,7 @@ class HappyFace {
   }
   
   void display() {
+    ellipseMode(CENTER);
     fill(fillColor);
     stroke(outlineColor);
     strokeWeight(r/20);
